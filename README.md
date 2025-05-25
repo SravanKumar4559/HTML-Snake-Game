@@ -1,3 +1,5 @@
+# Play your game here : https://sravankumar4559.github.io/HTML-Snake-Game/
+
 # Modern Snake Game
 
 A classic Snake game reimagined with modern features and responsive design. Built with HTML5 Canvas, CSS3, and JavaScript, this game offers an engaging experience across desktop and mobile devices.
