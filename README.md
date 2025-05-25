@@ -1,4 +1,5 @@
-# Play your game here : https://sravankumar4559.github.io/HTML-Snake-Game/
+# Play your game here below
+https://sravankumar4559.github.io/HTML-Snake-Game/
 
 # Modern Snake Game
 
